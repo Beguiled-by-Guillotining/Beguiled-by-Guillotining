@@ -1,5 +1,5 @@
 # Beguiled by Guillotining
-Source code for the album Beguiled by Guillotining
+Source code for the album Beguiled by Guillotining. To run any songs, use [Sonic Pi](https://sonic-pi.net/).
 
 Songs:
 01. Beguiled:
