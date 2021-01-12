@@ -1,5 +1,5 @@
 # Beguiled by Guillotining
-Source code for the album Beguiled by Guillotining. To run any songs, use [Sonic Pi](https://sonic-pi.net/).
+Source code for the album Beguiled by Guillotining. To run any songs, use [Sonic Pi](https://sonic-pi.net/). You can find a recorded version of this album [here](https://beguiledbyguillotining.bandcamp.com/album/beguiled-by-guillotining).
 
 Songs:
 01. Beguiled:
