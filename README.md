@@ -32,8 +32,5 @@ Songs:
 	01. Incoming Damage from Highly Accelerated Cow
 	01. The Anxiety of Being
 
-All .rb files are licensed under the GNU GPLv3 license (see file GNU GPLv3 LICENSE).  
-All .wav files are licensed under the CC-BY-SA-4.0 license (see file CC-BY-SA-4.0 LICENSE).
-
 Lyrics on "The Splatter" from "Murder of the Universe" by King Gizzard & The Lizard Wizard  
 Distorted Guitar Synth on "The Vastness of Space, But Also Its Emptiness" by Josh Mitchell (https://github.com/SCLOrkHub/SCLOrkSynths/blob/master/SynthDefs/guitar/distortedGuitar.scd)
